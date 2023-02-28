@@ -1,0 +1,5 @@
+example/*
+!example/example.cpp
+!example/CMakeLists.txt
+.ccls-cache/
+compile_commands.json
